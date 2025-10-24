@@ -40,7 +40,3 @@ The accompanying report provides:
 
 ## Conclusion:
 This project sheds light on the critical parameters governing the evolution of the universe. By refining our models of dark energy and incorporating new observational data, we aim to advance our understanding of the **accelerated expansion** and the **fate of the cosmos**.
-
----
-
-This README serves as a comprehensive summary of the project, outlining the objectives, methods, and tools used to explore one of the most profound mysteries in modern cosmology.
